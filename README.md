@@ -1,1 +1,1 @@
-# Leveraging-Digital-Cousins-for-Ensemble-Q-Learning-in-6G-Wireless-Networks
+Please find the supplementary appendix file for the paper "Leveraging Digital Cousins for Ensemble Q Learning in 6G Wireless Networks", by Talha Bozkus and Urbashi Mitra, submitted to IEEE Transactions on Signal Processing.
